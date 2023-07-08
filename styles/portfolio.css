@@ -1,0 +1,41 @@
+body{
+    font-family: Open Sans;
+}
+.orangeColor{
+    color: #FD6E0A;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+nav h1{
+    font-size: 45px;
+}
+nav>ul>li{
+    list-style: none;
+}
+ul{
+    display: flex;
+}
+nav>ul{
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(93, 91, 91);
+    padding: 50px;
+}
+.btn{
+    width: 150px;
+    height: 64px;
+    font-weight: 700;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    border: 0px;
+    padding: 15px 35px;
+}

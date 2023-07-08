@@ -91,7 +91,7 @@ nav a{
     text-align: center;
 }
 .aboutArea{
-    width: 1300px;
+    
     height: 550px;
 }
 .saicolor{
@@ -110,3 +110,20 @@ nav a{
     padding: 0px 60px 0px ;
     margin-left: 20px;
 }
+.heightfoter{
+    height: 200px;
+}
+.footManeTola{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.block{
+    display: block;
+   
+}
+.heightfoter{
+    margin: 100px;
+}
+

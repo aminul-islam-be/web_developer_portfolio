@@ -99,4 +99,8 @@ nav a{
 }
 .address2{
     text-align: left;
+    
+}
+.pad{
+    padding: 8px;
 }

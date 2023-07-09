@@ -127,3 +127,14 @@ nav a{
     margin: 100px;
 }
 
+.decoration{
+    text-decoration: none;
+}
+.heightWidth{
+    border: 0px;
+    height: 30px;
+}
+.shadow{
+    box-shadow: 10px 10px 40px rgb(129, 127, 127);
+    margin-left: 5px;
+}
